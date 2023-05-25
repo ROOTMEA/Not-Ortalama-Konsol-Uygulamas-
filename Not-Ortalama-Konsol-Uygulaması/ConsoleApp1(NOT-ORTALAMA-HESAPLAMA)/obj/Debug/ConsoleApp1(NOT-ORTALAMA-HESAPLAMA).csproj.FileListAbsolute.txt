@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\C#\ConsoleApp1(NOT-ORTALAMA-HESAPLAMA)\ConsoleApp1(NOT-ORTALAMA-HESAPLAMA)\bin\Debug\ConsoleApp1(NOT-ORTALAMA-HESAPLAMA).exe.config
+C:\Users\User\Desktop\C#\ConsoleApp1(NOT-ORTALAMA-HESAPLAMA)\ConsoleApp1(NOT-ORTALAMA-HESAPLAMA)\bin\Debug\ConsoleApp1(NOT-ORTALAMA-HESAPLAMA).exe
+C:\Users\User\Desktop\C#\ConsoleApp1(NOT-ORTALAMA-HESAPLAMA)\ConsoleApp1(NOT-ORTALAMA-HESAPLAMA)\bin\Debug\ConsoleApp1(NOT-ORTALAMA-HESAPLAMA).pdb
+C:\Users\User\Desktop\C#\ConsoleApp1(NOT-ORTALAMA-HESAPLAMA)\ConsoleApp1(NOT-ORTALAMA-HESAPLAMA)\obj\Debug\ConsoleApp1(NOT-ORTALAMA-HESAPLAMA).csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\ConsoleApp1(NOT-ORTALAMA-HESAPLAMA)\ConsoleApp1(NOT-ORTALAMA-HESAPLAMA)\obj\Debug\ConsoleApp1(NOT-ORTALAMA-HESAPLAMA).csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#\ConsoleApp1(NOT-ORTALAMA-HESAPLAMA)\ConsoleApp1(NOT-ORTALAMA-HESAPLAMA)\obj\Debug\ConsoleApp1(NOT-ORTALAMA-HESAPLAMA).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\ConsoleApp1(NOT-ORTALAMA-HESAPLAMA)\ConsoleApp1(NOT-ORTALAMA-HESAPLAMA)\obj\Debug\ConsoleApp1(NOT-ORTALAMA-HESAPLAMA).exe
+C:\Users\User\Desktop\C#\ConsoleApp1(NOT-ORTALAMA-HESAPLAMA)\ConsoleApp1(NOT-ORTALAMA-HESAPLAMA)\obj\Debug\ConsoleApp1(NOT-ORTALAMA-HESAPLAMA).pdb
